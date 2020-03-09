@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,6 +8,7 @@
     <link rel="stylesheet" href="css/style.css">
     <script src="https://kit.fontawesome.com/525a7ba6e9.js" crossorigin="anonymous"></script>
 </head>
+
 <body>
 
     <header class="container">
@@ -28,7 +30,12 @@
 
     <main>
         <div class="banner">
-            <img src="img/news/1.jpg" alt="Banner demonstrativo">
+            <picture>
+                <source media="(min-width: 1201px)" srcset="img/news/4.png">
+                <source media="(min-width: 801px)" srcset="img/news/3.png">
+                <source media="(min-width: 426px)" srcset="img/news/2.png">
+                <img src="img/news/1.jpg" alt="Banner demonstrativo">
+            </picture>
         </div>
 
         <h1>principais destaques</h1>
@@ -37,18 +44,26 @@
             <h2 class="btn shadow rounded">filmes</h2>
             <div class="card btn rounded shadow">
                 <img src="img/news/2.png" alt="Imagem sobre a notícia X" class="rounded">
-                <h3>Logan está de volta à Marvel!</h3>
-                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat, officia assumenda repellat possimus sequi aspernatur quam, reiciendis expedita saepe suscipit iusto rem. Expedita fuga ut harum excepturi dolore reprehenderit cumque.</p>
+                <div>
+                    <h3>Logan está de volta à Marvel!</h3>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat, officia assumenda repellat
+                    possimus sequi aspernatur quam, reiciendis expedita saepe suscipit iusto rem. Expedita fuga ut harum
+                    excepturi dolore reprehenderit cumque.</p>
+                </div>
             </div>
             <div class="card btn rounded shadow">
                 <img src="img/news/2.png" alt="Imagem sobre a notícia X" class="rounded">
                 <h3>Logan está de volta à Marvel!</h3>
-                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat, officia assumenda repellat possimus sequi aspernatur quam, reiciendis expedita saepe suscipit iusto rem. Expedita fuga ut harum excepturi dolore reprehenderit cumque.</p>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat, officia assumenda repellat
+                    possimus sequi aspernatur quam, reiciendis expedita saepe suscipit iusto rem. Expedita fuga ut harum
+                    excepturi dolore reprehenderit cumque.</p>
             </div>
             <div class="card btn rounded shadow">
                 <img src="img/news/2.png" alt="Imagem sobre a notícia X" class="rounded">
                 <h3>Logan está de volta à Marvel!</h3>
-                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat, officia assumenda repellat possimus sequi aspernatur quam, reiciendis expedita saepe suscipit iusto rem. Expedita fuga ut harum excepturi dolore reprehenderit cumque.</p>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat, officia assumenda repellat
+                    possimus sequi aspernatur quam, reiciendis expedita saepe suscipit iusto rem. Expedita fuga ut harum
+                    excepturi dolore reprehenderit cumque.</p>
             </div>
         </section>
 
@@ -58,17 +73,23 @@
             <div class="card btn rounded shadow">
                 <img src="img/news/2.png" alt="Imagem sobre a notícia X" class="rounded">
                 <h3>Logan está de volta à Marvel!</h3>
-                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat, officia assumenda repellat possimus sequi aspernatur quam, reiciendis expedita saepe suscipit iusto rem. Expedita fuga ut harum excepturi dolore reprehenderit cumque.</p>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat, officia assumenda repellat
+                    possimus sequi aspernatur quam, reiciendis expedita saepe suscipit iusto rem. Expedita fuga ut harum
+                    excepturi dolore reprehenderit cumque.</p>
             </div>
             <div class="card btn rounded shadow">
                 <img src="img/news/2.png" alt="Imagem sobre a notícia X" class="rounded">
                 <h3>Logan está de volta à Marvel!</h3>
-                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat, officia assumenda repellat possimus sequi aspernatur quam, reiciendis expedita saepe suscipit iusto rem. Expedita fuga ut harum excepturi dolore reprehenderit cumque.</p>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat, officia assumenda repellat
+                    possimus sequi aspernatur quam, reiciendis expedita saepe suscipit iusto rem. Expedita fuga ut harum
+                    excepturi dolore reprehenderit cumque.</p>
             </div>
             <div class="card btn rounded shadow">
                 <img src="img/news/2.png" alt="Imagem sobre a notícia X" class="rounded">
                 <h3>Logan está de volta à Marvel!</h3>
-                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat, officia assumenda repellat possimus sequi aspernatur quam, reiciendis expedita saepe suscipit iusto rem. Expedita fuga ut harum excepturi dolore reprehenderit cumque.</p>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat, officia assumenda repellat
+                    possimus sequi aspernatur quam, reiciendis expedita saepe suscipit iusto rem. Expedita fuga ut harum
+                    excepturi dolore reprehenderit cumque.</p>
             </div>
         </section>
 
@@ -128,31 +149,32 @@
                     </ul>
                 </nav>
             </div>
-    
+
             <div class="sociais btn inner rounded">
                 <a href="#"><i class="fab fa-facebook-f"></i></a>
                 <a href="#"><i class="fab fa-instagram"></i></a>
                 <a href="#"><i class="fab fa-twitter"></i></a>
                 <a href="#"><i class="fab fa-youtube"></i></a>
             </div>
-    
+
         </div>
     </footer>
 
 
     <script>
-        function btnMenu(){
+        function btnMenu() {
 
             var menu = document.getElementById("menu");
 
-            if(menu.style.display == "none"){
+            if (menu.style.display == "none") {
                 menu.style.display = "block";
-            }else{
+            } else {
                 menu.style.display = "none";
-            }            
+            }
         }
     </script>
 
 
 </body>
+
 </html>
