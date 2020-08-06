@@ -1,0 +1,13 @@
+C:\Users\pc\Desktop\Aula13ProjetoUberConsole\bin\Debug\netcoreapp3.1\Aula13ProjetoUberConsole.exe
+C:\Users\pc\Desktop\Aula13ProjetoUberConsole\bin\Debug\netcoreapp3.1\Aula13ProjetoUberConsole.deps.json
+C:\Users\pc\Desktop\Aula13ProjetoUberConsole\bin\Debug\netcoreapp3.1\Aula13ProjetoUberConsole.runtimeconfig.json
+C:\Users\pc\Desktop\Aula13ProjetoUberConsole\bin\Debug\netcoreapp3.1\Aula13ProjetoUberConsole.runtimeconfig.dev.json
+C:\Users\pc\Desktop\Aula13ProjetoUberConsole\bin\Debug\netcoreapp3.1\Aula13ProjetoUberConsole.dll
+C:\Users\pc\Desktop\Aula13ProjetoUberConsole\bin\Debug\netcoreapp3.1\Aula13ProjetoUberConsole.pdb
+C:\Users\pc\Desktop\Aula13ProjetoUberConsole\obj\Debug\netcoreapp3.1\Aula13ProjetoUberConsole.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Aula13ProjetoUberConsole\obj\Debug\netcoreapp3.1\Aula13ProjetoUberConsole.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Aula13ProjetoUberConsole\obj\Debug\netcoreapp3.1\Aula13ProjetoUberConsole.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Aula13ProjetoUberConsole\obj\Debug\netcoreapp3.1\Aula13ProjetoUberConsole.AssemblyInfo.cs
+C:\Users\pc\Desktop\Aula13ProjetoUberConsole\obj\Debug\netcoreapp3.1\Aula13ProjetoUberConsole.dll
+C:\Users\pc\Desktop\Aula13ProjetoUberConsole\obj\Debug\netcoreapp3.1\Aula13ProjetoUberConsole.pdb
+C:\Users\pc\Desktop\Aula13ProjetoUberConsole\obj\Debug\netcoreapp3.1\Aula13ProjetoUberConsole.genruntimeconfig.cache
