@@ -1,0 +1,13 @@
+C:\Users\pc\Desktop\Aula10Polimorfismo\bin\Debug\netcoreapp3.1\Aula10Polimorfismo.exe
+C:\Users\pc\Desktop\Aula10Polimorfismo\bin\Debug\netcoreapp3.1\Aula10Polimorfismo.deps.json
+C:\Users\pc\Desktop\Aula10Polimorfismo\bin\Debug\netcoreapp3.1\Aula10Polimorfismo.runtimeconfig.json
+C:\Users\pc\Desktop\Aula10Polimorfismo\bin\Debug\netcoreapp3.1\Aula10Polimorfismo.runtimeconfig.dev.json
+C:\Users\pc\Desktop\Aula10Polimorfismo\bin\Debug\netcoreapp3.1\Aula10Polimorfismo.dll
+C:\Users\pc\Desktop\Aula10Polimorfismo\bin\Debug\netcoreapp3.1\Aula10Polimorfismo.pdb
+C:\Users\pc\Desktop\Aula10Polimorfismo\obj\Debug\netcoreapp3.1\Aula10Polimorfismo.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Aula10Polimorfismo\obj\Debug\netcoreapp3.1\Aula10Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Aula10Polimorfismo\obj\Debug\netcoreapp3.1\Aula10Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Aula10Polimorfismo\obj\Debug\netcoreapp3.1\Aula10Polimorfismo.AssemblyInfo.cs
+C:\Users\pc\Desktop\Aula10Polimorfismo\obj\Debug\netcoreapp3.1\Aula10Polimorfismo.dll
+C:\Users\pc\Desktop\Aula10Polimorfismo\obj\Debug\netcoreapp3.1\Aula10Polimorfismo.pdb
+C:\Users\pc\Desktop\Aula10Polimorfismo\obj\Debug\netcoreapp3.1\Aula10Polimorfismo.genruntimeconfig.cache
