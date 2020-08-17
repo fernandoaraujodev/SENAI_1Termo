@@ -1,0 +1,13 @@
+C:\Users\pc\Desktop\Aula18Futebol\bin\Debug\netcoreapp3.1\Aula18Futebol.exe
+C:\Users\pc\Desktop\Aula18Futebol\bin\Debug\netcoreapp3.1\Aula18Futebol.deps.json
+C:\Users\pc\Desktop\Aula18Futebol\bin\Debug\netcoreapp3.1\Aula18Futebol.runtimeconfig.json
+C:\Users\pc\Desktop\Aula18Futebol\bin\Debug\netcoreapp3.1\Aula18Futebol.runtimeconfig.dev.json
+C:\Users\pc\Desktop\Aula18Futebol\bin\Debug\netcoreapp3.1\Aula18Futebol.dll
+C:\Users\pc\Desktop\Aula18Futebol\bin\Debug\netcoreapp3.1\Aula18Futebol.pdb
+C:\Users\pc\Desktop\Aula18Futebol\obj\Debug\netcoreapp3.1\Aula18Futebol.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Aula18Futebol\obj\Debug\netcoreapp3.1\Aula18Futebol.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Aula18Futebol\obj\Debug\netcoreapp3.1\Aula18Futebol.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Aula18Futebol\obj\Debug\netcoreapp3.1\Aula18Futebol.AssemblyInfo.cs
+C:\Users\pc\Desktop\Aula18Futebol\obj\Debug\netcoreapp3.1\Aula18Futebol.dll
+C:\Users\pc\Desktop\Aula18Futebol\obj\Debug\netcoreapp3.1\Aula18Futebol.pdb
+C:\Users\pc\Desktop\Aula18Futebol\obj\Debug\netcoreapp3.1\Aula18Futebol.genruntimeconfig.cache
