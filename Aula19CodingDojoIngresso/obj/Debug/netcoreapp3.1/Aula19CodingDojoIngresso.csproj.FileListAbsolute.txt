@@ -1,0 +1,13 @@
+C:\Users\pc\Desktop\Aula19CodingDojoIngresso\bin\Debug\netcoreapp3.1\Aula19CodingDojoIngresso.exe
+C:\Users\pc\Desktop\Aula19CodingDojoIngresso\bin\Debug\netcoreapp3.1\Aula19CodingDojoIngresso.deps.json
+C:\Users\pc\Desktop\Aula19CodingDojoIngresso\bin\Debug\netcoreapp3.1\Aula19CodingDojoIngresso.runtimeconfig.json
+C:\Users\pc\Desktop\Aula19CodingDojoIngresso\bin\Debug\netcoreapp3.1\Aula19CodingDojoIngresso.runtimeconfig.dev.json
+C:\Users\pc\Desktop\Aula19CodingDojoIngresso\bin\Debug\netcoreapp3.1\Aula19CodingDojoIngresso.dll
+C:\Users\pc\Desktop\Aula19CodingDojoIngresso\bin\Debug\netcoreapp3.1\Aula19CodingDojoIngresso.pdb
+C:\Users\pc\Desktop\Aula19CodingDojoIngresso\obj\Debug\netcoreapp3.1\Aula19CodingDojoIngresso.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Aula19CodingDojoIngresso\obj\Debug\netcoreapp3.1\Aula19CodingDojoIngresso.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Aula19CodingDojoIngresso\obj\Debug\netcoreapp3.1\Aula19CodingDojoIngresso.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Aula19CodingDojoIngresso\obj\Debug\netcoreapp3.1\Aula19CodingDojoIngresso.AssemblyInfo.cs
+C:\Users\pc\Desktop\Aula19CodingDojoIngresso\obj\Debug\netcoreapp3.1\Aula19CodingDojoIngresso.dll
+C:\Users\pc\Desktop\Aula19CodingDojoIngresso\obj\Debug\netcoreapp3.1\Aula19CodingDojoIngresso.pdb
+C:\Users\pc\Desktop\Aula19CodingDojoIngresso\obj\Debug\netcoreapp3.1\Aula19CodingDojoIngresso.genruntimeconfig.cache
